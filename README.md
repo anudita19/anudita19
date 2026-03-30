@@ -1,7 +1,7 @@
 Hi, I'm Anudita Singh 
 B.Tech Student  
 Branch: Computer science engineering in artificial intelligence and machine learning
-Year: 1st year 
+Year: 1st year  
 
 ---
 About Me
